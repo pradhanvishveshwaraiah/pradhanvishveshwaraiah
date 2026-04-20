@@ -19,22 +19,13 @@
 - 📝 I regularly write articles on [https://medium.com/@pradhanvishveshwaraiah](https://medium.com/@pradhanvishveshwaraiah)
 
 ---
-
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://github.com/pradhanvishveshwaraiah" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" width="40" />
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/pradhanvishveshwaraiah" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" />
-  </a>&nbsp;
-  <a href="https://twitter.com/pradhanv198981" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" width="40" />
-  </a>&nbsp;
-  <a href="https://medium.com/@pradhanvishveshwaraiah" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="40" width="40" />
-  </a>
+  <a href="https://github.com/pradhanvishveshwaraiah" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
+  <a href="https://www.linkedin.com/in/pradhanvishveshwaraiah" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+  <a href="https://twitter.com/pradhanv198981" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
+  <a href="https://medium.com/@pradhanvishveshwaraiah" target="_blank"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" height="40" /></a>
 </p>
 ---
 
