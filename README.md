@@ -3,8 +3,8 @@
 ### Aspiring Full Stack Developer | MERN Stack Developer | AI & ML Enthusiast
 
 <p align="left">
-  <a href="https://github.com/pradhanvishveshwaraiah">
-    <img src="https://github-profile-trophy.vercel.app/?username=pradhanvishveshwaraiah" alt="pradhanvishveshwaraiah" />
+  <a href="https://github.com/pradhanvishveshwaraiah" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=pradhanvishveshwaraiah&theme=tokyonight&no-frame=true&row=1" alt="GitHub Trophies" />
   </a>
 </p>
 
